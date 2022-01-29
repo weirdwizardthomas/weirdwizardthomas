@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @weirdwizardthomas, a Master's student of AI
-- 👀 I’m interested in Machine Learning, data processing, web applications to name a few!
-- 🌱 I’m currently learning Ruby, Scala, Wolfram Mathematica. I meddle with Django to write my own serves for my web apps. I'm an ideas man, I've got a big backlog of projects to work on.
+- 👀 I’m interested in Machine Learning, data processing and web applications to name a few!
+- 🌱 I meddle with Django & Rails to write my own servers for my web apps. I'm an ideas man, I've got a big backlog of projects to work on.
 - 💞️ I’m not looking for any collaborations or job offers, I am quite busy with my studies, work & personal projects!
 
 <!---
